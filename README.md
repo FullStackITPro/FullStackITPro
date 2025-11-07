@@ -1,16 +1,24 @@
-<div align="center">
-  <h2>🏆 Github Profile Trophy 🏆</h2>  
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JudeWine&no-bg=true&no-frame=true&theme=onedark&column=8" />
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+</p>
+
+<h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;">
+  🚀 Welcome to Visit my Profile 👑
+</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+</p>
+
 
 <p align="center">
 <a href="https://github.com/JudeWine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudeWine&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FullStackITPro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JudeWine&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
-## 💬 Talk with me
+## 💬 About me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
@@ -24,7 +32,7 @@
 
 💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
 
-## 💫 My🌟BEST🌟 SKILLS
+## 💫 My🌟OWN🌟 SKILLS
 
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
 
@@ -203,7 +211,10 @@
 <hr>
 <br>
 </div>
-
+<div align="center">
+  <h2>🏆 Github Profile Trophy 🏆</h2>  
+  <img alig src="https://github-profile-trophy.vercel.app/?username=JudeWine&no-bg=true&no-frame=true&theme=onedark&column=8" />
+</div>
 ---
 
 ### 📈 **GitHub Analytics**
