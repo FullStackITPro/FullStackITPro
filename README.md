@@ -219,19 +219,6 @@
 
 ### 📈 **GitHub Analytics**
 
----
-
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-green.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season-animate.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-season.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season-animate.svg) -->
-<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-south-season.svg) -->
-
 <div align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
