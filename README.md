@@ -1,15 +1,6 @@
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
-</p>
-
 <h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;">
   🚀 Welcome to Visit my Profile 👑
 </h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
-</p>
-
 
 <p align="center">
 <a href="https://github.com/fullstackitpro">
@@ -18,7 +9,7 @@
 </a>
 </p>
 
-## 💬 About me
+##  About me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
@@ -32,7 +23,7 @@
 
 💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
 
-## 💫 My🌟OWN🌟 SKILLS
+## 💫 My SKILLS
 
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
 
